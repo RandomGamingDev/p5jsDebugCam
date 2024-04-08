@@ -1,7 +1,7 @@
 # p5jsDebugCam
 A basic keyboard only debug camera for p5.js
 
-<img src="p5jsDebugCam.png" width="256" />
+<img src="p5jsDebugCam.png" width="512" />
 
 Simply create a new `DebugCam` instance like this: `DebugCam(<camera>, moveSpeed, turnSpeed)` and then put a call to the `.takeInput()` element of your previously initialized `DebugCam` instance in the `keyPressed()` function of p5.js in order to use the library
 
